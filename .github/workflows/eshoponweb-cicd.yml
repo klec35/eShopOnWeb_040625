@@ -9,7 +9,7 @@ env:
   LOCATION: francecentral
   TEMPLATE-FILE: infra/webapp.bicep
   SUBSCRIPTION-ID: fb721b5d-2a90-470d-9e5e-fea8893e6993
-  WEBAPP-NAME: eshoponweb-webapp-KLE
+  WEBAPP-NAME: eshoponweb-webapp-KLE-060625
 
 
 jobs:
